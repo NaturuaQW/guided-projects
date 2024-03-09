@@ -1,1 +1,1 @@
-# guided-projects
+Guided Maze Solver Boot.dev
